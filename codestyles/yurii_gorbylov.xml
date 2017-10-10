@@ -1,5 +1,10 @@
 <code_scheme name="yurii.gorbylov">
   <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.tranzzo.emails.utils.json.BasicCodecs._" />
+      </array>
+    </option>
     <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
     <option name="ALIGN_TYPES_IN_MULTILINE_DECLARATIONS" value="true" />
   </ScalaCodeStyleSettings>
