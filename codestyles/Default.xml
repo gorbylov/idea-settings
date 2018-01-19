@@ -1,0 +1,24 @@
+<code_scheme name="Default">
+  <ScalaCodeStyleSettings>
+    <option name="alwaysUsedImports">
+      <array>
+        <option value="com.google.cloud.bigquery._" />
+        <option value="com.tranzzo.emails.utils.json.BasicCodecs._" />
+        <option value="com.tranzzo.financial.service.serialization.BaseAvroCodecs._" />
+        <option value="com.tranzzo.financial.service.serialization.BasicAvroCodecs._" />
+        <option value="purecsv.safe._" />
+      </array>
+    </option>
+    <option name="NOT_CONTINUATION_INDENT_FOR_PARAMS" value="true" />
+  </ScalaCodeStyleSettings>
+  <SqlCodeStyleSettings>
+    <option name="ALIAS_CASE" value="1" />
+    <option name="KEYWORD_CASE" value="1" />
+    <option name="TYPE_CASE" value="1" />
+    <option name="IDENTIFIER_CASE" value="1" />
+    <option name="QUOTED_IDENTIFIER_CASE" value="1" />
+  </SqlCodeStyleSettings>
+  <codeStyleSettings language="Scala">
+    <option name="ALIGN_MULTILINE_PARAMETERS" value="false" />
+  </codeStyleSettings>
+</code_scheme>

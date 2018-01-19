@@ -1,0 +1,21 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+      </component>
+      <component name="ScalaSbtSettings">
+        <option name="customLauncherEnabled" value="true" />
+        <option name="customLauncherPath" value="$USER_HOME$/workspace/dev/sbt/bin/sbt-launch.jar" />
+        <option name="customVMEnabled" value="true" />
+        <option name="customVMPath" value="$USER_HOME$/workspace/dev/jdk1.8.0_151" />
+        <option name="maximumHeapSize" value="2048" />
+        <option name="vmParameters" value="-XX:MaxPermSize=1024M" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

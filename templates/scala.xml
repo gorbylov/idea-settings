@@ -1,0 +1,5 @@
+<templateSet group="scala">
+  <template name="frm" value="implicit val format = Json.format[$TYPE$] " description="Template for Json format" toReformat="true" toShortenFQNames="true">
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="false" />
+  </template>
+</templateSet>

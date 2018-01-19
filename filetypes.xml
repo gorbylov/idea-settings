@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="AntifraudTable" type="PLAIN_TEXT" />
+      <mapping pattern="ingress.yml" type="PLAIN_TEXT" />
+      <mapping pattern="fetchCommonds" type="PLAIN_TEXT" />
+      <mapping pattern="AntifraudRegistry" type="PLAIN_TEXT" />
+      <mapping pattern="ProjectList" type="PLAIN_TEXT" />
+      <mapping pattern="transactionsRequests" type="PLAIN_TEXT" />
+      <mapping pattern="antifraudRequests" type="PLAIN_TEXT" />
+      <mapping pattern="Dockerignore" type="PLAIN_TEXT" />
+      <mapping pattern="TerminalForm" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
